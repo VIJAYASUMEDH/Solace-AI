@@ -64,7 +64,7 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 cd Solace
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
+Replace `https://github.com/VIJAYASUMEDH/Solace-AI` with your actual GitHub repository URL.
 
 ### 2. Install frontend dependencies
 
